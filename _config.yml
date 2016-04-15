@@ -1,0 +1,28 @@
+name: 'Philly & Dan'
+favicon: null
+layout_spectrum: 0.2705534521955997
+typography_spectrum: 0.9095631069503725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.46208725962787867
+  lightness: 0.5870535280555487
+  saturation: 0.6637176412623376
+  rhythmicContrast: 0.8807097922544926
+purpose: []
