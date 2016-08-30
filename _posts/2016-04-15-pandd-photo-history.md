@@ -1,27 +1,26 @@
 ---
+keywords: []
+title: First House Party
+datePublished: '2016-08-28T21:39:00.644Z'
+dateModified: '2016-08-28T21:38:26.871Z'
+publisher:
+  name: ''
+  url: ''
+author:
+  - name: ''
+    url: ''
 inFeed: false
 hasPage: true
 inNav: true
-inLanguage: null
-starred: true
-keywords: []
-description: ''
-datePublished: '2016-04-18T15:44:23.404Z'
-dateModified: '2016-04-15T16:52:34.913Z'
-title: 'P&D Photo History '
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+description: 3 Years of Philly & Dan photos summed up in 7 Shots!
+via: {}
+starred: false
 sourcePath: _posts/2016-04-15-pandd-photo-history.md
-published: true
 url: pandd-photo-history/index.html
 _type: WebPage
 
 ---
+3 Years of Philly & Dan photos summed up in 7 Shots!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd632ac6-8014-4a6d-91d3-68b323f90650.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc284b5a-fa2e-47c6-910a-e805286843f1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ffa8eb3-7599-4b86-bd6e-1e831bb9c61c.jpg)
